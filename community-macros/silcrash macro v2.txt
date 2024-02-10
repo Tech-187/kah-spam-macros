@@ -1,0 +1,129 @@
+/C SyStem
+gear me 4842204072
+blind                                                                             others
+noclip                                                                             me
+dog                                                                             others others others
+dog                                                                             others others others
+dog                                                                             others others others
+dog                                                                             others others others
+dog                                                                             others others others
+dog                                                                             others others others
+dog                                                                             others others others
+dog                                                                             others others others
+dog                                                                             others others others
+dog                                                                             others others others
+dog                                                                             others others others
+dog                                                                             others others others
+dog                                                                             others others others
+size others .3
+size others .3
+size others .3
+freeze others
+size others 10
+size others 10
+size others 10
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+clone                                                                             others others others
+
+
+
+
+
+
+
+
+
+
+
+ 

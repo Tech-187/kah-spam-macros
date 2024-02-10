@@ -1,0 +1,6 @@
+setgrav/all inf
+speed/all nan
+setgrav/all nan
+speed/all inf
+
+-- set the spam speed to 1.85
